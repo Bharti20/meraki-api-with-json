@@ -595,13 +595,6 @@
       "type": "js",
       "logo": "http://navgurukul.org/img/sqlogo.jpg",
       "short_description": "We will discuss about Conditional Statements."
-    },
-    {
-      "id": "157",
-      "name": "recursion",
-      "type": "Function",
-      "logo": "httpbharti234567@7",
-      "short_description": "recursions aur programming ki depth mei jayenge."
     }
   ],
   "completedCourses": []
